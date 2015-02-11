@@ -1,0 +1,15 @@
+References
+----------
+
+Frontend Nanodegree Style Guide     http://udacity.github.io/frontend-nanodegree-styleguide/
+
+Twitter Bootstrap CSS               http://getbootstrap.com/css/
+Mozilla CSS                         https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+W3Schools CSS                       http://www.w3schools.com/cssref/
+
+
+Validators
+----------
+
+HTML    http://validator.w3.org/
+CSS     http://jigsaw.w3.org/css-validator/
