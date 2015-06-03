@@ -1,0 +1,37 @@
+= Build a portfolio Site (p1-mockup-to-website)
+
+== Introduction
+
+This repository is the result of the of the first project *Build a portfolio Site* of the Udacity Front-End Web Developer 
+Nanodegree. Udacity provided a design mockup as a PDF-file and one had to replicate that design in HTML and CSS. 
+
+The layout is implemented using grid system of Twitter Bootstrap.
+It was helpful to draw read lines around boxes using the CSS statement
+
+[source,css]
+----
+* {
+    border: 1px solid red !important;
+}
+----
+
+The corresponding course to this project is 
+https://www.udacity.com/course/intro-to-html-and-css--ud304[Intro to HTML and CSS course]
+
+This course is divided into three lessions
+
+* L1: HTML, CSS, and Boxes
+* L2: CSS Frameworks, Responsive Layouts
+* L3: Bootstrap and Other Frameworks
+
+== References
+
+* http://udacity.github.io/frontend-nanodegree-styleguide/[Frontend Nanodegree Style Guide]
+* http://getbootstrap.com/css/[Twitter Bootstrap CSS]    
+* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference[Mozilla CSS]                       
+* http://www.w3schools.com/cssref/[W3Schools CSS]                  
+
+== Validators
+
+* http://validator.w3.org/[HTML]
+* http://jigsaw.w3.org/css-validator/[CSS]
