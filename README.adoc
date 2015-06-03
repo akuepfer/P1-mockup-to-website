@@ -5,7 +5,7 @@
 This repository is the result of the of the first project *Build a portfolio Site* of the Udacity Front-End Web Developer 
 Nanodegree. Udacity provided a design mockup as a PDF-file and one had to replicate that design in HTML and CSS. 
 
-The layout is implemented using grid system of Twitter Bootstrap.
+The layout is implemented using the grid system of Twitter Bootstrap.
 It was helpful to draw read lines around boxes using the CSS statement
 
 [source,css]
