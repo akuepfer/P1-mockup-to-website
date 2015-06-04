@@ -1,4 +1,4 @@
-= Build a portfolio Site (p1-mockup-to-website)
+= Build a Portfolio Site (p1-mockup-to-website)
 
 == Introduction
 
@@ -15,9 +15,38 @@ It was helpful to draw read lines around boxes using the CSS statement
 }
 ----
 
-The corresponding course to this project is 
-https://www.udacity.com/course/intro-to-html-and-css\--ud304[Intro to HTML and CSS course]
+A helpful hint from Udacity to perform the layout is using an opaque image of the final page.
+This is implemented by adding the two fragment to the CSS and the HTML file.
 
+[source,css]
+.from main.css
+----
+.mockup-overlay {
+    top: 0;
+    position: absolute;
+    z-index: -1;
+    opacity: 0.4;
+}
+----
+
+Insert before the closing `</body>` tag:
+
+[source,html]
+.from index.html
+----
+<div class="mockup-overlay">
+    <img src="images/page-mock.png">
+</div>
+----
+
+
+
+The final page is accessable under the link the link http://akuepfer.github.io/P1-mockup-to-website/[P1-mockup-to-website].
+
+
+
+The corresponding course to this project is 
+https://www.udacity.com/course/intro-to-html-and-css\--ud304[Intro to HTML and CSS course]. 
 This course is divided into three lessions
 
 * L1: HTML, CSS, and Boxes
